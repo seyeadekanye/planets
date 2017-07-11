@@ -1,2 +1,2 @@
 # This is a test repo
-*PSU BIITCAMP 2017*
+**PSU BOOTCAMP 2017**
